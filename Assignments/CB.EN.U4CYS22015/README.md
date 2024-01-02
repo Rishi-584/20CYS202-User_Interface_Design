@@ -17,9 +17,9 @@
 | CO5 | Develop and deploy web applications | 
 
 #### Done By:
--[BURLA RUSHYENDRA REDDY - CB.EN.U4CYS22015](https://rishi584.github.io)
+-[BURLA RUSHYENDRA REDDY - CB.EN.U4CYS22015](https://github.com/Rishi-584)
 
--[VAJJULA SATYA SIDDARDHA - CB.EN.U4CYS22063](https://siddhu78.github.io)
+-[VAJJULA SATYA SIDDARDHA - CB.EN.U4CYS22063](https://github.com/Satyasiddardha)
 
 #### Quick Refreshers
 
