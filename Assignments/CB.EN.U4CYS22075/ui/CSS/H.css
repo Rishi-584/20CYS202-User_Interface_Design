@@ -223,6 +223,7 @@ footer{
     color: #fff;
     text-align: center;
     padding: 20px;
+    justify-content: center;
 }
 
 .Action a{

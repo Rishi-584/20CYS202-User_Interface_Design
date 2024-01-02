@@ -2,30 +2,28 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-UID-blue) <br/>
 
 
-20CYS202  - User Interface Design - 3rd Sem - B.E. CSE(CYS) - ASE, CBE
-
 ### Teacher: Course Instructor:  Ms. Hemalatha P, Assistant Professor, TIFAC-CORE in Cyber Security.
 
-![](https://img.shields.io/badge/Template-Partial-grey)
+![](https://img.shields.io/badge/Template-Partial-silver)
 
-### UID-DBMS - [PAWS]
+### UID-DBMS-[PAWS](https://amrita-tifac-cyber-blockchain.github.io/20CYS202-User_Interface_Design/Assignments/CB.EN.U4CYS22067/ui/)
 
 ### Done By:
--[N Meera](https://github.com/Meera-N)
+- [N Meera](https://github.com/Meera-N)
 
--[Amita Narayanan Kutty](https://github.com/Amita-NK)
+- [Amita Narayanan Kutty](https://github.com/Amita-NK)
 
 ### Quick Refreshers
 
-- [Scripts](https://github.com/Amita-NK/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/script)
-- [Images](https://github.com/Amita-NK/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/images)
-- [CSS](https://github.com/Amita-NK/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/css)
-- [HTTP Codes](https://github.com/Amita-NK/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/html)
+- [HTML](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/html)
+- [Images](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/img)
+- [CSS](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/css)
+- [Javascript](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22067/ui/js)
 
 ### Credential
 - No **Login**
 
 ### References 
- - **Reference :** (https://www.hasindia.org/)
+ - **Reference :** [Humane Animal Society India](https://www.hasindia.org/)
 
  
