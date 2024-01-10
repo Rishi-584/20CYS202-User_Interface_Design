@@ -9,7 +9,7 @@
 - [Ananth R](https://github.com/ananth2712)
 
 ### Deliverable 
-- [User Interface](ui/)
+- [User Interface](https://amrita-tifac-cyber-blockchain.github.io/20CYS202-User_Interface_Design/Assignments/CB.EN.U4CYS22005/ui/)
 
 ### Credential
 - No **Login** required
