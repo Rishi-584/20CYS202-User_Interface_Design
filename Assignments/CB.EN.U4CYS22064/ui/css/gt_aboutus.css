@@ -1,16 +1,21 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Orbitron', Verdana, sans-serif;
+    font-style: italic;
     margin: 0;
     padding: 0;
-    background-image: url("https://m.economictimes.com/thumb/msid-98916574,width-1920,height-1080,resizemode-4,imgsize-88616/ipl-new-rule-allows-captains-naming-of-playing-xi-after-toss-report.jpg");
+    background-image: url("../images/img.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
 }
 
 .navbar {
-    background-color: #333;
+    background-color: #131313;
     overflow: hidden;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
 }
 
 .navbar a {
@@ -45,14 +50,52 @@ body {
     cursor: pointer;
 }
 
+.content .fade-in-text {
+    font-family: Arial;
+    animation: fadeIn 5s;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
 img {
     border-radius: 50px;
 }
 
+
 p {
-    color: aliceblue;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-size:larger;
+    padding-left: 120px;
+    padding-right: 140px;
 }
 
 h2 {
     text-align: center;
+}
+
+.content .fade-in-text .nav {
+    background: none;
+    overflow: hidden;
+}
+
+
+
+.content .fade-in-text .nav a {
+    float: right;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: rgb(248, 94, 94);
+    border-radius: 20px;
+}
+
+.content .fade-in-text .nav a:hover {
+    background-color: red;
+    color: black;
 }

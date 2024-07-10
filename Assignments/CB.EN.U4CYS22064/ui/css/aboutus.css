@@ -3,7 +3,7 @@ body {
     font-style: italic;
     margin: 0;
     padding: 0;
-    background-image: url("https://m.economictimes.com/thumb/msid-98916574,width-1920,height-1080,resizemode-4,imgsize-88616/ipl-new-rule-allows-captains-naming-of-playing-xi-after-toss-report.jpg");
+    background-image: url("../images/img.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -11,13 +11,13 @@ body {
 }
 
 .navbar {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(255, 255, 255, 0.7);
     overflow: hidden;
 }
 
 .navbar a {
     float: right;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -51,8 +51,24 @@ img {
 }
 
 p {
-    color: aliceblue;
-    float: left;
-    padding-left: 50px;
-    padding-right: 200px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-size:larger;
+    padding-left: 120px;
+    padding-right: 140px;
+}
+
+.fade-in-text {
+    font-family: Arial;
+    animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }

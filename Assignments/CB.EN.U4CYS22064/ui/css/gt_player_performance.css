@@ -1,5 +1,5 @@
 body {
-    background-image: url('../images/gt_team.jpg');
+    background-image: url('../images/gt2.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -10,11 +10,18 @@ table {
     width: 100%;
 }
 
-td, th {
-    border: 1px solid #dddddd;
+th{
+    border: 3px solid #000000;
     text-align: left;
     padding: 8px;
     color: #dddddd;
+}
+
+td {
+    border: 3px solid #000000;
+    text-align: left;
+    padding: 8px;
+    color: #000000;
 }
 
 .fade-in-text {
@@ -47,4 +54,27 @@ th {
 @keyframes fadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
+}
+
+.fade-in-text .navbar {
+    background: none;
+    overflow: hidden;
+}
+
+
+
+.fade-in-text .navbar a {
+    float: right;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: rgb(248, 94, 94);
+    border-radius: 20px;
+}
+
+.fade-in-text .navbar a:hover {
+    background-color: red;
+    color: black;
 }
